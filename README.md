@@ -1,2 +1,2 @@
 "Emilie Catlett" 
-"# git_intro" 
+catlette@oregonstate.edu
