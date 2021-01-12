@@ -1,2 +1,2 @@
-"Emilie Catlett" 
+Emilie Catlett
 catlette@oregonstate.edu
